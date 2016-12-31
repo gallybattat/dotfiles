@@ -1,3 +1,5 @@
 [user]
 	name = Gally Battat
 	email = dev@batt.at
+[core]
+	excludesfile = /Users/gally/.gitignore_global
