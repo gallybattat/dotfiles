@@ -4,6 +4,9 @@ set nocompatible
 " Load the plugin and indent files for specific file types 
 filetype plugin indent on	
 
+" Set character encoding to utf-8
+set encoding=utf-8
+
 " Use visual bell instead of beeping
 set visualbell
 
