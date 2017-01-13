@@ -1,6 +1,9 @@
 " Use Vim defaults
 set nocompatible
 
+" Load private Vim configuration
+source ~/.vimrc.private
+
 " Load the plugin and indent files for specific file types 
 filetype plugin indent on	
 
