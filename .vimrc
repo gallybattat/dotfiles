@@ -7,6 +7,9 @@ source ~/.vimrc.private
 " Load the plugin and indent files for specific file types 
 filetype plugin indent on	
 
+" Enable syntax highlighting
+syntax on
+
 " Set character encoding to utf-8
 set encoding=utf-8
 
@@ -31,3 +34,6 @@ set hlsearch
 
 " While typing a search command, show where the pattern, as it was typed so far, matches.  
 set incsearch
+
+" Use monochrome colorscheme
+colorscheme monochrome
